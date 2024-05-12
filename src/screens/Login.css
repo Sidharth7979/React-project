@@ -1,0 +1,101 @@
+.container {
+    background-image: url('./tomato.jpg');
+    height: 607px;
+    width: 800px;
+    left: 8%;
+    align-items: center;
+    background-size: cover;
+   
+}
+  .tiger{
+
+    position: fixed;
+    margin-left: -80px;
+    
+  }
+ 
+   
+  
+  .containerinside{
+     margin-left: 470px;
+     margin-top: 30px;
+  
+    font-size: 20px;
+  }
+  .containerinside h1{
+    margin-left: 100px;
+    color: white;
+    }
+    .containerinside p{
+        color: white;
+    }
+
+  .innerdiv{
+    margin-top: 10px;
+    margin-left: 500px;
+    align-items: center;
+    height: 400px;
+    width: 300px;
+    background-color: rgba(255, 255, 255, 0.93);
+    
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+  }
+  .innerdiv span{
+    margin-left: 65px;
+  }
+  .five{
+    
+    margin-top: 40px;
+    height: 33px;
+    width: 200px;
+    margin-left: 45px;
+    border-radius: 20px;
+  }
+  .fivetwo{
+    margin-top: 20px;
+    height: 33px;
+    width: 200px;
+    margin-left: 45px;
+    border-radius: 20px;
+  }
+ 
+  .remember-me {
+  
+    transform: scale(1.5);
+    margin-top: 20px;
+    margin-left: 30px;
+  
+  }
+  #fpass{
+    margin-left: 20px;
+  }
+
+  
+  .para{margin-top: 40px;
+    margin-left: 100px;
+    
+  }
+ .last{
+  margin-left: 100px;
+  font-size: x-large;
+  text-decoration: none;
+  
+  
+ }
+ 
+
+.buttonlogin{
+  height: 40px;
+  width: 180px;
+  margin-left: 50px;
+  }
+  .buttonlogin  button {
+    margin-top: 20px;
+    height: 40px;
+    width: 180px;
+    border-radius: 20px;
+    background-color: rgb(236, 14, 51);
+    color: white;
+    font-size: large;
+    font-weight: bold;
+  }
